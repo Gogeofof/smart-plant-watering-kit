@@ -3,7 +3,7 @@
  Arduino based, time-programming, sensor fault detection
 
 functionality:
-Set the RTC               example: "set 28.08.2013 10:54"
+Set the RTC                    example: "set 28.08.2013 10:54"
  
 Read Sensor Values
 detect Sensor - fault: open or short circuit, internal resistance of source
